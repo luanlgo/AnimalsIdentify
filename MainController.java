@@ -1,4 +1,4 @@
-package trabalho_04_09;
+package AnimalsIdentify;
 
 import java.io.BufferedReader;
 import java.io.File;
